@@ -9,4 +9,4 @@ snakemake ERCC92.fa
 ```
 
 # Expected Usage
-This should be either cloned and run in a central location, where it is shared among lab members. Alternatively, it could be used as [a subworkflow](https://snakemake.readthedocs.io/en/stable/snakefiles/modularization.html#sub-workflows) for other Snakemake pipelines.
+This should be either cloned and run in a central location (e.g., shared among lab members), or it could be used as [a subworkflow](https://snakemake.readthedocs.io/en/stable/snakefiles/modularization.html#sub-workflows) for other Snakemake pipelines.
